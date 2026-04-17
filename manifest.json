@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ChromaAid – Color Blindness Adapter",
+  "name": "VisiGuard– Color Blindness Adapter",
   "version": "1.0.0",
   "description": "Detects your type of color blindness and adapts any website for better visibility.",
   "permissions": ["activeTab", "scripting", "storage"],
